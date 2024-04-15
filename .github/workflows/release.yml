@@ -15,7 +15,7 @@ permissions:
 
 env:
   PROJ_USERNAME: Hawkbar
-  PROJ_NAME: OuterWildsModShipLightToggle
+  PROJ_NAME: ShipLightToggle
 
 jobs:
   pre_job:
