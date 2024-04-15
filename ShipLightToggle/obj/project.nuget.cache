@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wRnhOpPYeLUZmPVKP3nKBTE7a5dFm2Qz6936i+Fj5EktnmfdhIKXJtmZBacaUaoXBt83SRkt3LlRjCf+YfNU1Q==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\OuterWildsModShipLightToggle\\ShipLightToggle\\ShipLightToggle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hawkbar\\.nuget\\packages\\harmonyx\\2.5.5\\harmonyx.2.5.5.nupkg.sha512",
+    "C:\\Users\\Hawkbar\\.nuget\\packages\\json.net.unity3d\\9.0.1\\json.net.unity3d.9.0.1.nupkg.sha512",
+    "C:\\Users\\Hawkbar\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
+    "C:\\Users\\Hawkbar\\.nuget\\packages\\monomod.runtimedetour\\21.8.19.1\\monomod.runtimedetour.21.8.19.1.nupkg.sha512",
+    "C:\\Users\\Hawkbar\\.nuget\\packages\\monomod.utils\\21.8.19.1\\monomod.utils.21.8.19.1.nupkg.sha512",
+    "C:\\Users\\Hawkbar\\.nuget\\packages\\outerwildsgamelibs\\1.1.14.768\\outerwildsgamelibs.1.1.14.768.nupkg.sha512",
+    "C:\\Users\\Hawkbar\\.nuget\\packages\\owml\\2.9.8\\owml.2.9.8.nupkg.sha512"
+  ],
+  "logs": []
+}

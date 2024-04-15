@@ -1,0 +1,11 @@
+C:\Users\Hawkbar\AppData\Roaming\OuterWildsModManager\OWML\Mods\Hawkbar.ShipLightToggle\default-config.json
+C:\Users\Hawkbar\AppData\Roaming\OuterWildsModManager\OWML\Mods\Hawkbar.ShipLightToggle\manifest.json
+C:\Users\Hawkbar\AppData\Roaming\OuterWildsModManager\OWML\Mods\Hawkbar.ShipLightToggle\ShipLightToggle.dll
+C:\Users\Hawkbar\AppData\Roaming\OuterWildsModManager\OWML\Mods\Hawkbar.ShipLightToggle\ShipLightToggle.pdb
+E:\Projects\OuterWildsModShipLightToggle\ShipLightToggle\obj\Debug\ShipLightToggle.csproj.AssemblyReference.cache
+E:\Projects\OuterWildsModShipLightToggle\ShipLightToggle\obj\Debug\ShipLightToggle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\OuterWildsModShipLightToggle\ShipLightToggle\obj\Debug\ShipLightToggle.AssemblyInfoInputs.cache
+E:\Projects\OuterWildsModShipLightToggle\ShipLightToggle\obj\Debug\ShipLightToggle.AssemblyInfo.cs
+E:\Projects\OuterWildsModShipLightToggle\ShipLightToggle\obj\Debug\ShipLightToggle.csproj.CoreCompileInputs.cache
+E:\Projects\OuterWildsModShipLightToggle\ShipLightToggle\obj\Debug\ShipLightToggle.dll
+E:\Projects\OuterWildsModShipLightToggle\ShipLightToggle\obj\Debug\ShipLightToggle.pdb
